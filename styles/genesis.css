@@ -113,3 +113,26 @@ li {
 .lg-text {
     font-size: 22px;
 }
+
+.grid-container3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+a {
+    color: black;
+    text-decoration: none
+}
+
+svg {
+    display: flex;
+    margin-left: auto;
+}
+
+hr {
+    background-color: #979797;
+    width: 83vw;
+    height: 2px;
+    opacity: 0.5;
+}
