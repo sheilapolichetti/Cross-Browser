@@ -1,1 +1,75 @@
 *{font-family: 'Mulish', sans-serif;}
+
+body {
+    padding: 30px 50px 30px 50px;
+    margin: 61px 125px;
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.topnav {
+    font-weight: bold;
+    display: flex;
+    width: 100%;
+}
+
+.sub-links {
+    margin-left: auto;
+}
+
+.logo {
+    font-size: 22px;
+}
+
+a {
+    color: black;
+    text-decoration: none
+}
+
+
+.grid-containerproject{
+    display: grid;
+    display: flex;
+    grid-gap: 1rem;
+    margin-left: auto;
+    max-width: 100%;
+}
+
+.left-columnall {
+    color: #979797;
+}
+
+.right-columnall {
+    font-weight: bold;
+}
+
+.p-grid {
+    display: flex;
+}
+
+.first-p {
+    display: inline-block;
+    max-width: 55%;
+}
+
+p {
+    color: #979797;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+svg {
+    display: flex;
+    margin-left: auto;
+}
