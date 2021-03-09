@@ -73,3 +73,10 @@ svg {
     display: flex;
     margin-left: auto;
 }
+
+hr {
+    background-color: #979797;
+    width: 200px;
+    height: 1px;
+    opacity: 0.5;
+}
