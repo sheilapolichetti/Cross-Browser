@@ -62,11 +62,15 @@ form input {
     
 }
 
-.p-form {
-    display: flex;
-    justify-content: column;
+.paragraph {
+    margin-left: auto;
 }
 
 .just-form {
     display: flex;
+}
+
+svg {
+    display: flex;
+    margin-left: auto;
 }
